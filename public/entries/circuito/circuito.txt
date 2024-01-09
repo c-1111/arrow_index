@@ -1,0 +1,4 @@
+Cuando se coloca una flecha diagonal en un elemento de un circuito, generalmente indica que el componente es una resistencia variable o un potenciómetro. Esto significa que la resistencia del componente se puede ajustar girando un botón o deslizador. La flecha simboliza la naturaleza ajustable de la resistencia.
+
+DIODO
+El símbolo del diodo tiene una línea vertical que representa la barrera semiconductor del diodo. La flecha en la línea indica la dirección de la corriente permitida. La punta de la flecha está en el extremo donde la corriente fluye fácilmente, y la base de la flecha está en el extremo que bloquea la corriente en sentido contrario.

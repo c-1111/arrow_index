@@ -9,7 +9,8 @@ export default {
         fontSize: {
         },
        fontFamily: {
-         arial:'Arial Nova'
+         arial:'Arial Nova',
+         arial_cnd: 'Arial Nova Cond'
         } 
       }
     }
