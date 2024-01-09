@@ -4,7 +4,6 @@
 El hotspot (literalmente "punto caliente") del cursor del ratón es el píxel del cursor que se usa para pulsar.
 </div>
 <div class="images">
-<img src="/entries/cursor/337 Sem Título_20220818195826.png" alt="">
 <img src="/entries/cursor/152084.svg" alt="">
 <img src="/entries/cursor/classic_grey.png" alt="">
 <img src="/entries/cursor/Cursors.jpg" alt="">

@@ -4,7 +4,7 @@
 </div>
 <div class="images">
     <img src="/entries/paul_klee/825cac4963d33c6bb86d8007676f2186.jpg" alt="">
-    <img src="/entries/paul_klee/Klee Contrasts.png" alt="">
+    <img src="/entries/paul_klee/Klee_Contrasts.png" alt="">
     <img src="/entries/paul_klee/Klee-1-750x1024.jpeg" alt="">
     <img src="/entries/paul_klee/Paul_Klee_-_Arrow_in_the_Garden_-_(MeisterDrucke-1453520).jpg" alt="">
     <img src="/entries/paul_klee/Paul-Klee.jpg" alt="">
