@@ -9,7 +9,7 @@ export default {
         fontSize: {
         },
        fontFamily: {
-         title:'CirrusCumulus'
+         arial:'Arial Nova'
         } 
       }
     }

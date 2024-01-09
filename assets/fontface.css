@@ -1,26 +1,76 @@
 @font-face {
-    font-family: 'CirrusCumulus';
-    src: url('/public/fonts/CirrusCumulus.woff2') format('woff2'),
-        url('/public/fonts/CirrusCumulus.woff') format('woff');
+    font-family: 'Arial Nova';
+    src: url('/public/fonts/ArialNova-Bold.woff2') format('woff2'),
+        url('/public/fonts/ArialNova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Nova Cond';
+    src: url('/public/fonts/ArialNovaCond-Bold.woff2') format('woff2'),
+        url('/public/fonts/ArialNovaCond-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Nova';
+    src: url('/public/fonts/ArialNova-Light.woff2') format('woff2'),
+        url('/public/fonts/ArialNova-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Nova';
+    src: url('/public/fonts/ArialNova.woff2') format('woff2'),
+        url('/public/fonts/ArialNova.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'CirrusCumulus';
-    src: url('/public/fonts/CirrusCumulus.woff2') format('woff2'),
-        url('/public/fonts/CirrusCumulus.woff') format('woff');
+    font-family: 'Arial Nova Cond';
+    src: url('/public/fonts/ArialNovaCond.woff2') format('woff2'),
+        url('/public/fonts/ArialNovaCond.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'CirrusCumulus';
-    src: url('/public/fonts/CirrusCumulus.woff2') format('woff2'),
-        url('/public/fonts/CirrusCumulus.woff') format('woff');
+    font-family: 'Arial Nova';
+    src: url('/public/fonts/ArialNova-Italic.woff2') format('woff2'),
+        url('/public/fonts/ArialNova-Italic.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     font-display: swap;
 }
+
+
+
+
+/* CAMBIOS SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: 4px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent; 
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background: #ababab; 
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #000000; 
+  }
+  
+  

@@ -1,15 +1,9 @@
 <template>
     <main>
-      <header class="header">
-        <div class="web_title font-title">La Flecha</div>
-        <nav class="nav">
-          <div class="nav-group">
-            <ul class="group-list">
-              <li><a href="#" class="font-title" >about</a></li>
-            </ul>
-          </div>
-          <div class="nav-absolute"></div>
-        </nav>
+      <header class="header flex flex-row justify-between mb-12 px-6 text-xs">
+        <div class="web_title font-arial">la flecha</div>
+        <div class="web_subtitle font-arial">proyecto de archivo</div>
+        <div><a href="#" class="font-arial" >about</a></div>
       </header>
   
       <section class="container grid grid-cols-2 md:grid-cols-5 gap-4 px-4 py-2 md:px-6 md:py-2">
@@ -63,24 +57,6 @@ export default {
 </script>
   
   <style lang="sass">
-  .header
-    @apply flex w-full h-20 items-center px-4 md:px-6
-  
-  .web_title
-    @apply text-2xl font-bold text-gray-800
-  
-  .nav
-    @apply z-10 max-w-max w-full flex-1 items-center justify-center ml-auto lg:flex
-  
-  .nav-group
-    @apply relative w-full
-  
-  .group-list
-    @apply flex flex-1 list-none items-center justify-center space-x-1
-  
-  .nav-absolute
-    @apply absolute left-0 top-full flex justify-center
-  
   .container
     @apply mx-auto
   
