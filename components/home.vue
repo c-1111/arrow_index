@@ -16,7 +16,7 @@
             width="200"
             height="200"
           />
-          <p class="mt-2 text-gray-600 dark:text-gray-400 group-hover:opacity-100 opacity-0 transition-opacity">
+          <p class=" font-arial text-xs group-hover:opacity-100 opacity-0 transition-opacity">
             {{ item.text }}
           </p>
         </a>
